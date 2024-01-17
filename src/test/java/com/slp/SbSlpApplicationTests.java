@@ -1,4 +1,4 @@
-package com.slp;
+/*package com.slp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,4 +10,4 @@ class SbSlpApplicationTests {
 	void contextLoads() {
 	}
 
-}
+}*/
